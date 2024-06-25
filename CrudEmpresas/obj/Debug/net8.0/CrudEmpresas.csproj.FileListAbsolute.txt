@@ -1,0 +1,14 @@
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.AssemblyInfoInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.AssemblyInfo.cs
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.csproj.CoreCompileInputs.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.exe
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.deps.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.runtimeconfig.json
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\refint\CrudEmpresas.dll
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.pdb
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.genruntimeconfig.cache
+C:\CODIGO.EDU.PE\BOOTCAMP C#\CrudEmpresas\CrudEmpresas\obj\Debug\net8.0\ref\CrudEmpresas.dll

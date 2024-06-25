@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|c:\\codigo.edu.pe\\bootcamp c#\\crudempresas\\crudempresas\\empresaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|solutionrelative:crudempresas\\empresaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|c:\\codigo.edu.pe\\bootcamp c#\\crudempresas\\crudempresas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|solutionrelative:crudempresas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|c:\\codigo.edu.pe\\bootcamp c#\\crudempresas\\crudempresas\\crudempresas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56DFBFF0-B090-4B10-9016-74F13A58E7D9}|CrudEmpresas\\CrudEmpresas.csproj|solutionrelative:crudempresas\\crudempresas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaUI.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\EmpresaUI.cs",
+              "RelativeDocumentMoniker": "CrudEmpresas\\EmpresaUI.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\EmpresaUI.cs",
+              "RelativeToolTip": "CrudEmpresas\\EmpresaUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:01:46.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\Program.cs",
+              "RelativeDocumentMoniker": "CrudEmpresas\\Program.cs",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\Program.cs",
+              "RelativeToolTip": "CrudEmpresas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:00:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudEmpresas",
+              "DocumentMoniker": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\CrudEmpresas.csproj",
+              "RelativeDocumentMoniker": "CrudEmpresas\\CrudEmpresas.csproj",
+              "ToolTip": "C:\\CODIGO.EDU.PE\\BOOTCAMP C#\\CrudEmpresas\\CrudEmpresas\\CrudEmpresas.csproj",
+              "RelativeToolTip": "CrudEmpresas\\CrudEmpresas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T00:00:10.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
